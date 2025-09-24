@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.log
+*.sqlite3
+*.db
+*.pkl
+*.env
+.env*
+.venv/
+venv/
+.python-version
+uv.lock
+# Django
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.migrations/
+# VSCode
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
+# Test/coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+.cache/
+pytest_cache/
+# Jupyter
+.ipynb_checkpoints/
+# Others
+*.bak
+*.swp
+*.swo
+*.tmp
